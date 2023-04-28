@@ -1,0 +1,46 @@
+.footer {
+    background-color: #ffffff;
+    color:black; 
+    padding: 10px 515px;
+    
+  }
+  
+  .footer p {
+    margin-bottom: 0;
+    
+  }
+  
+  .social-icons {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .social-icons li {
+    margin-left: 10px;
+    
+  }
+  
+  .social-icons li:first-child {
+    margin-left: 0;
+    
+  }
+  
+  .social-icons a {
+    color: #fff;
+    font-size: 20px;
+   
+  }
+  
+  .social-icons a:hover {
+    color: #ccc;
+    
+  }
+
+  .footer {
+    position: absolute;
+    bottom: 0;
+  }
+  
+  
